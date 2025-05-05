@@ -12,4 +12,4 @@ Welcome to my homepage.
 
 My research interests are Macroeconomics, Spatial Economics and Labor Economics.
 
-I will be on the 2025/26 academic job market!
+**I will be on the 2025/26 academic job market!**
