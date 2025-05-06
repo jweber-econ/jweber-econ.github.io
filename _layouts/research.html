@@ -1,0 +1,46 @@
+<!-- _layouts/research.html -->
+---
+layout: default
+---
+
+{% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
+  {% include page__hero.html %}
+{% endif %}
+
+<div id="main" role="main">
+  {% include sidebar.html %}
+
+  <div class="research">
+    <h1 class="page__title">{{ page.title }}</h1>
+
+    {% assign publications = site.publications | sort: "date" | reverse %}
+    
+    {% for publication in publications %}
+      <div class="publication" style="margin-bottom: 2em;">
+        <h2><a href="{{ publication.paperurl }}">{{ publication.title }}</a></h2>
+        <p><strong>Published in:</strong> {{ publication.venue }} ({{ publication.date | date: "%Y" }})</p>
+
+        <!-- Abstract or Excerpt -->
+        <div class="abstract">
+          {{ publication.excerpt }}
+        </div>
+
+        <!-- Citation -->
+        {% if publication.citation %}
+          <p><strong>Recommended Citation:</strong> {{ publication.citation | markdownify }}</p>
+        {% endif %}
+
+        <!-- Download Links -->
+        <p>
+          <a href="{{ publication.paperurl }}" class="btn">Download Paper</a>
+          {% if publication.slidesurl %}
+            <a href="{{ publication.slidesurl }}" class="btn">Download Slides</a>
+          {% endif %}
+          {% if publication.bibtexurl %}
+            <a href="{{ publication.bibtexurl }}" class="btn">Download Bibtex</a>
+          {% endif %}
+        </p>
+      </div>
+    {% endfor %}
+  </div>
+</div>
