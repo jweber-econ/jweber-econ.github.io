@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate at the University of Bonn.
 Welcome to my homepage.
+I am a Ph.D. candidate at the University of Bonn.
 
 My research interests are Macroeconomics, Spatial Economics and Labor Economics.
 
