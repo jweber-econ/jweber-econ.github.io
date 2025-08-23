@@ -24,6 +24,7 @@ Regional wage disparities persist in Germany and other developed economies, yet 
 
 While unemployment insurance systems are widely used to insure workers against income losses after lay-offs, it is well known that they can increase separations in the labor market. There are two common policy instruments that can counter this known problem: lay-off taxes and short-time work schemes.
 This study provides a Search and Matching framework to evaluate which of the two is the better policy tool. We show, that if only few firms are financially constrained, lay-off taxes are better because they do not distort working hours in the economy. With a large share of financially constrained firms, short-time Work emerges as the superior tool, as lay-off taxes lose their bite. Additionally, short-time work can help provide insurance against income losses to risk-averse workers that constrained firms can no longer provide in their wage contracts.
+[Download (PDF)](/files/stw_vs_lt.pdf)
 [Extended Abstract (PDF)](/files/lt_stw_abs.pdf)
 
 ### Mobility and the Labor Market Effects of Being Affected by a Flood Event 
