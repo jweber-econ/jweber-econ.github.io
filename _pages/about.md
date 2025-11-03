@@ -12,4 +12,4 @@ I am a Ph.D. candidate at the University of Bonn.
 
 My research interests are Macroeconomics, Spatial Economics and Labor Economics.
 
-**I will be on the 2025/26 academic job market!**
+**I am a job market candidate on the 2025/26 academic job market!**
