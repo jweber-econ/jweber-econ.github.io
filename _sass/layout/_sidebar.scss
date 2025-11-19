@@ -280,3 +280,24 @@
     }
   }
 }
+
+/* === Always show contact info on mobile, hide the button === */
+@media screen and (max-width: 1023px) {
+
+  /* Hide the Follow/Contact button */
+  .author__urls-wrapper button {
+    display: none !important;
+  }
+
+  /* Show the icons/links on mobile like on desktop */
+  .author__urls {
+    display: block !important;
+    position: relative !important;
+    margin: 1rem 0 0 0 !important;
+    /* spacing below bio */
+    padding: 0 !important;
+    border: none !important;
+    background: transparent !important;
+    box-shadow: none !important;
+  }
+}
