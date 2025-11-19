@@ -282,19 +282,44 @@
 }
 
 /* === Always show contact info on mobile, hide the button === */
+/* === Mobile layout: stack avatar, text, and contact info === */
 @media screen and (max-width: 1023px) {
 
-  /* Hide the Follow/Contact button */
+  /* Make the avatar bigger and stacked */
+  .author__avatar {
+    display: block;
+    /* no more table-cell row layout */
+    width: 160px;
+    /* adjust this to taste: 140–180px */
+    margin: 0 auto 1rem;
+    /* center it above the text */
+  }
+
+  .author__avatar img {
+    width: 100%;
+    height: auto;
+    max-width: none;
+    border-radius: 12px;
+    /* keep your rounded rectangle */
+  }
+
+  /* Stack the text and contact block below the avatar */
+  .author__content,
+  .author__urls-wrapper {
+    display: block;
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  /* Always show the contact info on mobile, no button dropdown */
   .author__urls-wrapper button {
     display: none !important;
   }
 
-  /* Show the icons/links on mobile like on desktop */
   .author__urls {
     display: block !important;
     position: relative !important;
     margin: 1rem 0 0 0 !important;
-    /* spacing below bio */
     padding: 0 !important;
     border: none !important;
     background: transparent !important;
