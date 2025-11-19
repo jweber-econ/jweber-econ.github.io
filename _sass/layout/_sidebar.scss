@@ -326,3 +326,9 @@
     box-shadow: none !important;
   }
 }
+
+/* Hide pronouns and bio in the sidebar */
+.author__pronouns,
+.author__bio {
+  display: none !important;
+}
