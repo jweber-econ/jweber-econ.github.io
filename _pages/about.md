@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 Welcome to my homepage.
-I am a Ph.D. candidate at the University of Bonn.
 
-My research interests are Macroeconomics, Spatial Economics and Labor Economics.
+I am a Ph.D. candidate in economics at the University of Bonn and will join Copenhagen Business School as a Postdoc in August 2026.
 
-**I am a job market candidate on the 2025/26 academic job market!**
+My research interests are macroeconomics, spatial and urban economics, and labor economics.
+
