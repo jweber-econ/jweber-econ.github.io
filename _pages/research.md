@@ -32,4 +32,4 @@ This study provides a Search and Matching framework to evaluate which of the two
 **with Hannah Illing, Hanna Schwank and Leonie Wicht**
 
 As climate change increases the frequency and geographic reach of natural disasters, understanding their economic consequences in previously unaffected regions becomes increasingly important. We study the medium-run labor market and mobility effects of two major floods in Germany using administrative data and a dynamic difference-in-differences design. While disasters often imply economic disruption, we find that affected individuals—especially those whose home and workplace were both flooded—experienced sustained gains in employment and earnings. These effects appear to be driven by reconstruction efforts and local demand shocks. In contrast, individuals whose home alone was affected saw delayed reductions in labor supply. We also document limited residential mobility and signs of structural change in local economies. Future work will incorporate the 2021 flood and refined geospatial measures.
-[Preliminary Draft (PDF)](/files/flood_migration.pdf)
+<!-- [Preliminary Draft (PDF)](/files/flood_migration.pdf) -->
