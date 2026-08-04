@@ -9,7 +9,6 @@ redirect_from:
 
 Welcome to my homepage.
 
-I am a Ph.D. candidate in economics at the University of Bonn and will join Copenhagen Business School as a Postdoc in August 2026.
+I am a postdoctoral researcher in the Department of Economics at Copenhagen Business School. I received my PhD from the University of Bonn in 2026.
 
-My research interests are macroeconomics, spatial and urban economics, and labor economics.
-
+My research focuses on macroeconomics, spatial and urban economics, and labor economics.
