@@ -15,10 +15,16 @@ Despite large regional wage differences, worker mobility is low in Germany and o
 ###  Carrots or Sticks? Short-Time Work vs. Lay-off Taxes
 **with Gero Stiepelmann**
 
-While unemployment insurance systems are widely used to insure workers against income losses after lay-offs, it is well known that they can increase separations in the labor market. There are two common policy instruments that can counter this known problem: lay-off taxes and short-time work schemes.
-This study provides a Search and Matching framework to evaluate which of the two is the better policy tool. We show, that if only few firms are financially constrained, lay-off taxes are better because they do not distort working hours in the economy. With a large share of financially constrained firms, short-time Work emerges as the superior tool, as lay-off taxes lose their bite. Additionally, short-time work can help provide insurance against income losses to risk-averse workers that constrained firms can no longer provide in their wage contracts.
+While unemployment insurance systems are widely used to insure workers against income losses after separations, it is well known that they can inefficiently increase separations in the labor market.
+There are two distinct policy instruments commonly used by governments that can counter this known problem: layoff taxes and short-time work schemes.
+This study provides a search-and-matching model to evaluate which of the two is the better policy tool.
+We show that if only a few firms are financially constrained, layoff taxes are better because they do not distort working hours in the economy.
+With a large share of financially constrained firms, short-time work emerges as the superior tool, as layoff taxes cannot deter separations in financially constrained firms.
+Additionally, short-time work can help provide insurance against income losses to risk-averse workers that constrained firms cannot afford to provide in their wage contracts.
+Calibrating the model to the US economy, we find that short-time work is the superior policy instrument if at least 27.5 percent of firms in the economy are financially constrained. 
+Finally, we show that combining both instruments can dominate either policy in isolation when sufficiently many firms of both types are present in the economy.
 [Download (PDF)](/files/stw_vs_lt_fed.pdf)
-[Cleveland Fed Working Paper](/files/stw_vs_lt.pdf)
+[Cleveland Fed Working Paper](https://www.clevelandfed.org/-/media/project/clevelandfedtenant/clevelandfedsite/publications/working-papers/2026/wp2620.pdf)
 
 ### Local Unemployment, Worker Mobility and Labor Market Outcomes: Evidence from Germany
 
